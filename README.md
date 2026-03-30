@@ -7,5 +7,12 @@ Objective: To segment the customer base using the RFMT-D model to identify disti
 
 Task Type: (1) Unsupervised Learning / Clustering Analysis (using K-Means). (2) Descriptive Analytics (profiling segments based on RFMT-D scores) 
 
+RFMT-D Feature Definition
+•	Recency: Days since the last purchase.
+•	Frequency: Total number of purchases.
+•	Monetary: Total amount spent.
+•	Time: Number of days between the first and last purchase.
+•	Diversity: Unique count of different product categories purchased.
+
 Data used is from Kaggle customer_segmentation.csv
 
