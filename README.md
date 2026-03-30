@@ -5,5 +5,9 @@ Problem Statement: E-commerce and retail companies struggle to personalize marke
 
 Objective: To segment the customer base using the RFMT-D model to identify distinct behavioural groups—specifically, "high-diversity loyalists" and "at-risk long-term customers"—to enable targeted marketing campaigns that increase retention and increase cross-selling revenue.
 
+Task Type
+•	Unsupervised Learning / Clustering Analysis (using K-Means)
+•	Descriptive Analytics (profiling segments based on RFMT-D scores) 
+
 Data used is from Kaggle customer_segmentation.csv
 
